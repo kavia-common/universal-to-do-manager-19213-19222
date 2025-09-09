@@ -1,0 +1,4 @@
+{
+    "command": "dotnet build",
+    "working_directory": "/home/kavia/workspace/code-generation/universal-to-do-manager-19213-19222/todo_backend"
+}
